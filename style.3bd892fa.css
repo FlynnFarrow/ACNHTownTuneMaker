@@ -1,6 +1,6 @@
 @font-face {
    font-family: "TTNorms";
-   src: url("TTNorms-Bold.woff") format('woff');
+   src: url("TTNorms-Bold.woff");
 }
 
 html {

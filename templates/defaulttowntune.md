@@ -5,3 +5,11 @@ https://flynnfarrow.github.io/ACNHTownTuneMaker/#/tune/CECGfGBDCzqzc--z/Default%
 ## Order
 
 CECGfGBDCz?zc--z
+
+## About
+
+This is the sites default town tune template.
+
+## Exported Image
+
+![Town Tune]
